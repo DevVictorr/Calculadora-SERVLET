@@ -23,6 +23,11 @@ if(opcao.equals("+")) {
 	resultado = v1 + v2;
 	
 }
+if(opcao.equals("-")){
+	
+	resultado = v1 - v2;
+	
+}
 out.print(resultado);
 
 
